@@ -19,8 +19,8 @@
 ## Experience:  
 ### April 2024 - present: **_Ergo Technology & Services_**  - Data Management Environment
 - Discovered security, reliability and quality issues with third-party vendor's product after deep diagnostics bordering on reverse engineering without proper documentation  
-- Ran detailed network analysis to pin down bottlenecks  
-- Tested multiple internal networking schemes to try and stabilize the application
+- Ran detailed network analysis to pin down bottlenecks and map traffic flow
+- Tested multiple internal networking setups to try and stabilize the application
 - Worked with vendor to resolve them, of which unfortunately they proved incapable  
 - Found issues however allowed for a reevaluation of the product and averted risk for the company  
 - Delivered an initial deployment of Amazon DataZone  
@@ -40,9 +40,9 @@ Stack used:
 - Reduced development environment's EC2 instance cost by factor of 10
 - Fine-tuned resource limits and usage to take full advantage of spot instances and autoscaling  
 - Implemented an on-demand complete copy of the environment for testing experimental infrastructure changes    
-- Delivered critical Central Log Management integration to meet release requirements despite challenges  
+- Delivered critical Central Log Management integration to meet release requirements    
 - Delivered Dynatrace Agent integration after troubleshooting deep issues that were breaking entire environments  
-- Ran production EKS upgrades to stay in AWS support
+- Ran periodic production EKS upgrades to stay in AWS support
 - Did live troubleshooting on a production deployment that prevented a rollback and thus a repeat deployment later  
   
 Stack used:  
