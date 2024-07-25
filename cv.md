@@ -20,13 +20,12 @@
 ### April 2024 - present: **_Ergo Technology & Services_**  - Data Management Environment
 - Discovered security, reliability and quality issues with third-party vendor's product after deep diagnostics bordering on reverse engineering without proper documentation  
 - Ran detailed network analysis to pin down bottlenecks and map traffic flow
-- Tested multiple internal networking setups to try and stabilize the application
-- Worked with vendor to resolve them, of which unfortunately they proved incapable  
+- Tested multiple internal networking setups to try and stabilize the application  
 - Found issues however allowed for a reevaluation of the product and averted risk for the company  
 - Delivered an initial deployment of Amazon DataZone  
 
 Stack used:  
-- AWS (ECS, DataZone and core services)  
+- AWS (Elastic Container Service, DataZone and core services)  
 - Terraform/Terragrunt  
 - Docker
 - Github Actions  
@@ -34,13 +33,13 @@ Stack used:
 ### 2022 - April 2024: **_Ergo Technology & Services_** - Client Identity and Access Management
 - Delivered go-live on schedule despite lackluster onboarding and loss of previous DevOps engineer  
 - Implemented a new Ingress Controller to meet project security requirements for go-live
-- Migrated on premise Client Identity Management system (Forgerock) to AWS Cloud.  
-- Deployed, developed and maintained a fully containerized platform using AWS EKS.  
+- Migrated on premise Client Identity Management system (Forgerock) to AWS Cloud  
+- Deployed, developed and maintained a fully containerized platform using AWS EKS  
 - Integrated with on premise networks
 - Reduced development environment's EC2 instance cost by factor of 10
 - Fine-tuned resource limits and usage to take full advantage of spot instances and autoscaling  
 - Implemented an on-demand complete copy of the environment for testing experimental infrastructure changes    
-- Delivered critical Central Log Management integration to meet release requirements    
+- Delivered critical Central Log Management integration to meet release requirements     
 - Delivered Dynatrace Agent integration after troubleshooting deep issues that were breaking entire environments  
 - Ran periodic production EKS upgrades to stay in AWS support
 - Did live troubleshooting on a production deployment that prevented a rollback and thus a repeat deployment later  
@@ -89,7 +88,7 @@ Stack used:
 - Terraform
 
 ### 2018 - 2019:  **_Kainos_** - Imports system for UK government to replace EU software:
-Built, helped design and develop microservice based application and deploy pipelines. Delivery integrations with other suppliers, research and spikes to propose new services and tools. Working as part of a scrum team and supporting developers in DevOps matters.  
+Built, helped design and develop microservice based application and deploy pipelines. Delivered integrations with other suppliers, research and spikes to propose new services and tools. Worked as part of a scrum team and supported developers in DevOps matters.  
 Stack used: 
 - Azure (App Service, AKS, ACR)
 - Terraform
@@ -99,7 +98,7 @@ Stack used:
 - Ansible
 - Helm
 ### 2016 - 2018 - **_Kainos_** - Infrastructure Engineer:  
-Service Desk, Administrated Windows Server/Linux systems, network infrastructure.
+Service Desk, Administrated Windows Server/Linux systems, network infrastructure.  
 
 #### Active Directory to Workday integration:  
 Developed Powershell scripts to sync Workday personnel data to Active Directory. Consulted for another project on the matter sharing the outcomes and experiences.  
