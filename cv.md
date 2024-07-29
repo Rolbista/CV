@@ -108,5 +108,5 @@ Stack used:
 
 ## Education and Certification 
 ### AZ-900 Azure Fundamentals - Microsoft (2020)  
-### ITIL ITIL Foundation Certificate in IT Service Management Issuer: Altkom Akademia (2017)  
+### ITIL Foundation Certificate in IT Service Management Issuer: Altkom Akademia (2017)  
 ### TEB School Of Information Science And Internet - High School (HS), Information Technology (2017)
