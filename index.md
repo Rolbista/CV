@@ -55,6 +55,7 @@ Stack used:
 - Helm  
 - Kustomize  
 - Skaffold  
+
 ### 2019 - 2022:  **_Kainos_** - Various
 
 #### Big data financial project for a German customer  
@@ -98,7 +99,8 @@ Stack used:
 - Docker
 - Jenkins
 - Ansible
-- Helm
+- Helm  
+
 ### 2016 - 2018 - **_Kainos_** - Infrastructure Engineer:  
 Service Desk, Administrated Windows Server/Linux systems, network infrastructure.  
 
