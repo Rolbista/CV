@@ -55,9 +55,9 @@ Stack used:
 - Helm  
 - Kustomize  
 - Skaffold  
-
-### 2019 - 2022:  **_Kainos_** - Various
-
+  
+### 2019 - 2022: **_Kainos_** - Various  
+  
 #### Big data financial project for a German customer  
 Maintained and developed a mixed on-prem processing platform and integration microservices.  
 
