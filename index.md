@@ -16,7 +16,9 @@
 - Basic programming
 - Jira 
 - Confluence  
+
 ## Experience:  
+
 ### April 2024 - present: **_Ergo Technology & Services_**  - Data Management Environment
 - Ran deep diagnostics bordering on reverse engineering without proper documentation on third-party vendor's product   
 - Ran detailed network analysis to pin down bottlenecks and map traffic flow
