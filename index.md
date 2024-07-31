@@ -18,10 +18,10 @@
 - Confluence  
 ## Experience:  
 ### April 2024 - present: **_Ergo Technology & Services_**  - Data Management Environment
-- Discovered security, reliability and quality issues with third-party vendor's product after deep diagnostics bordering on reverse engineering without proper documentation  
+- Ran deep diagnostics bordering on reverse engineering without proper documentation on third-party vendor's product   
 - Ran detailed network analysis to pin down bottlenecks and map traffic flow
 - Tested multiple internal networking setups to try and stabilize the application  
-- Found issues however allowed for a reevaluation of the product and averted risk for the company  
+- Found issues allowed for a reevaluation of the product and averted risk for the company  
 - Delivered an initial deployment of Amazon DataZone  
 
 Stack used:  
@@ -31,7 +31,7 @@ Stack used:
 - Github Actions  
 
 ### 2022 - April 2024: **_Ergo Technology & Services_** - Client Identity and Access Management
-- Delivered go-live on schedule despite lackluster onboarding and loss of previous DevOps engineer  
+- Delivered go-live on schedule despite minimal onboarding and loss of previous DevOps engineer  
 - Implemented a new Ingress Controller to meet project security requirements for go-live
 - Migrated on premise Client Identity Management system (Forgerock) to AWS Cloud  
 - Deployed, developed and maintained a fully containerized platform using AWS EKS  
@@ -72,7 +72,7 @@ Proof of concept for a customer in the financial sector to enable automatic test
 
 Stack used: 
 - TeamCity
-- Octopus Deploy (🤮)
+- Octopus Deploy 
 - Azure DevOps
 - Docker
 - Powershell
