@@ -1,4 +1,4 @@
-# Wojciech Grabarz, DevOps Engineer
+# [Wojciech Grabarz, DevOps Engineer](./Wojciech-Grabarz-DevOps-Engineer-CV.pdf)
 Email: mail@wojciechgrabarz.com
 ## Skills and Tools:
 - AWS
