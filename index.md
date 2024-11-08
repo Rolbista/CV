@@ -17,10 +17,24 @@ Email: mail@wojciechgrabarz.com
 - Basic programming
 - Jira 
 - Confluence  
+- Fluent English 
 
 ## Experience:  
 
-### April 2024 - present: **_Ergo Technology & Services_**  - Data Management Environment
+### September 2024 - Present:  **_Ergo Technology & Services_**  - Security Scanning Framework
+- Prepared infrastructure to deploy an automated solution scanning for misconfigurations in multiple AWS accounts
+- Wrote code for bootstrapping and onboarding accounts in root/spoke model
+- Used parallel deployments to provision spoke child accounts
+- Dynamically sourced child accounts list
+- Used cross-account IAM access policies for scanning and cleanup execution
+
+Stack used:  
+- AWS (IAM, Lambda, SSM, Step Functions, DynamoDB, S3, SNS)  
+- Terraform/Terragrunt  
+- Python  
+- Github Actions  
+
+### April - August 2024: **_Ergo Technology & Services_**  - Data Management Environment
 - Ran deep diagnostics bordering on reverse engineering without proper documentation on third-party vendor's product   
 - Ran detailed network analysis to pin down bottlenecks and map traffic flow
 - Tested multiple internal networking setups to try and stabilize the application  
