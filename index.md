@@ -60,6 +60,7 @@ Stack used:
 - Delivered Dynatrace Agent integration after troubleshooting deep issues that were breaking entire environments  
 - Ran periodic production EKS upgrades to stay in AWS support
 - Did live troubleshooting on a production deployment that prevented a rollback and thus a repeat deployment later  
+- Prepared the operations team to take over maintenance and support in a "you build it - you run it" model by including them in sprint development activities and tasks (practical handover)  
   
 Stack used:  
 - AWS Elastic Kubernetes Service  
@@ -105,7 +106,7 @@ Stack used:
 - Vagrant
 - Terraform
 
-### 2018 - 2019:  **_Kainos_** - Imports system for UK government to replace EU software:
+### 2018 - 2019: **_Kainos_** - Imports system for UK government to replace EU software:
 Built, helped design and develop microservice based application and deploy pipelines. Delivered integrations with other suppliers, research and spikes to propose new services and tools. Worked as part of a scrum team and supported developers in DevOps matters.  
 Stack used: 
 - Azure (App Service, AKS, ACR)
@@ -116,7 +117,7 @@ Stack used:
 - Ansible
 - Helm  
 
-### 2016 - 2018 - **_Kainos_** - Infrastructure Engineer:  
+### 2016 - 2018: **_Kainos_** - Infrastructure Engineer:  
 Service Desk, Administrated Windows Server/Linux systems, network infrastructure.  
 
 #### Active Directory to Workday integration:  
