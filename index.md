@@ -21,6 +21,8 @@ Email: mail@wojciechgrabarz.com
 
 ## Experience:  
 
+### _Ergo Technology & Services_ (via Emagine):
+
 ### September 2024 - Present:  **_Ergo Technology & Services_**  - Security Scanning Framework
 - Prepared infrastructure to deploy an automated solution scanning for misconfigurations in multiple AWS accounts
 - Wrote code for bootstrapping and onboarding accounts in root/spoke model
